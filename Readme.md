@@ -1,6 +1,4 @@
-// a brief overview of the project and how to use it git 
-
-# Student Management Console App
+ # Student Management Console App
 
 A simple Java console application for managing student and course data. This project demonstrates fundamental object-oriented programming (OOP) concepts such as classes, inheritance, encapsulation, polymorphism, and control flow in Java.
 
