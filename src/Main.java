@@ -9,7 +9,7 @@ public class Main {
         boolean running = true;
 
         while (running) {
-            System.out.println("\n📚 Student Management Console");
+            System.out.println("\n Student Management Console");
             System.out.println("1. Add Student");
             System.out.println("2. Add Graduate Student");
             System.out.println("3. Display All Students");
