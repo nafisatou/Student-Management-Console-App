@@ -1,0 +1,5 @@
+Student ID: 1234
+Name: nafisa
+Age: 20
+Grades: [20, 40]
+GPA: 30.00

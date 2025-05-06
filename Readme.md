@@ -35,5 +35,9 @@ A simple Java console application for managing student and course data. This pro
   - java -cp bin Main
 
   - cd into the bin and now run the code -- using "java Main"
+  
+   // simpl you can run it without the bin then just run it in the main directory
+
+
 
 

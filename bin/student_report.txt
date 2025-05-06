@@ -1,0 +1,5 @@
+Student ID: 2345
+Name: hasi
+Age: 18
+Grades: [20, 30]
+GPA: 25.00

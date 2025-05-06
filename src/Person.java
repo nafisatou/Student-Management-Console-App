@@ -7,5 +7,9 @@ public abstract class Person {
         this.age = age;
     }
 
+    // Abstract method to be implemented by subclasses
     public abstract void displayInfo();
+
+    // Optionally add shared logic here (e.g., name/age validation)
 }
+
